@@ -6,6 +6,8 @@ Works with TikTok, Instagram, YouTube and X links. Pairs with [HQ](https://githu
 
 ## How it works
 
+![How it works](screenshots/how-it-works.jpg)
+
 ```
 1. Collect   scripts/collect-liked-links.js   your liked videos → links.txt
 2. Review    video-review/Review Videos.command   each link → transcript + caption + screenshots
